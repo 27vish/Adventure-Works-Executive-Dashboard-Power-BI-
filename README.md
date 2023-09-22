@@ -1,3 +1,3 @@
 # Adventure Works Executive Dashboard (Power BI)
 
-Created an Executive Dashboard in Power BI using cards, trending charts, bookmarks, drill-through filters, tooltips, pivot tables, and more.
+Track KPIs like profit, revenue, high-level trending, and so on, Compare regional performance, Analyse product-level trends, and Identify high-value customers.
